@@ -1,0 +1,75 @@
+{
+    "name": "Portfolio",
+    "short_name": "Prtfl",
+    "icons": [{
+      "src": "images/games.png",
+        "sizes": "60x60",
+        "type": "image/png",
+        "purpose": "any maskable"
+        
+      }, {
+        "src": "images/lang1.png",
+        "sizes": "90x90",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }, {
+        "src": "images/lang2.png",
+        "sizes": "100x100",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/lang3.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/mov1.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/mov2.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/mov3.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/music1.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/music2.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/music3.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/pic1.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+  }
+  
